@@ -1,7 +1,7 @@
 # Letterboxd Wrapped Project
 
 ## Overview
-This project is a personal data analysis and visualization of my movie-watching history using data from **Letterboxd** and **The Movie Database (TMDB)**. The goal was to create a "wrapped" summary of my movie preferences, including details like directors, genres, and other insights.
+This project is a personal data analysis and visualization of my movie-watching history using data from **Letterboxd** and **The Movie Database (TMDB)**. The goal was to create a "wrapped" summary of my movie preferences similar to Spotify Wrapped, including details like directors, genres, and other insights.
 
 ## 📋 Project Overview
 
@@ -14,6 +14,6 @@ This project is a personal data analysis and visualization of my movie-watching 
    - Performed further data validation and analysis in **SQL**.
 
 3. **Data Visualization**:
-   - Created visualizations using **Excel Pivot Tables** to summarize my movie-watching habits.
+   - Created visualizations using **Mcrosoft Power BI** to summarize my movie-watching habits.
   
 
