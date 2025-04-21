@@ -40,7 +40,7 @@ The goal was to create a “wrapped” summary of my movie preferences similar t
 - 🐍 [`unified.py`](./Python/unified.py)  
   Python script for enriching the dataset using TMDb API and performing basic cleaning.
 
-- 📊 [`vizualization.pdf`](./PowerBI/vizualization.pdf)  
+- 📊 [`vizualization.pdf`](C:\letterboxproject/vizualization.pdf)  
   Exported Power BI dashboard showing trends in viewing behavior.
 
 ---
